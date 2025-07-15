@@ -1,1 +1,2 @@
 # Travel-Diary-app
+The Travel Diary App is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) designed to help travelers document, organize, and share their travel experiences. Whether you're a globetrotter or an occasional explorer, this app provides a seamless platform to capture memories, plan trips, and connect with a community of like-minded adventurers. With a user-friendly interface and robust backend, the Travel Diary App ensures your travel stories are preserved and accessible anytime, anywhere.
