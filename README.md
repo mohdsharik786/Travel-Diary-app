@@ -1,2 +1,12 @@
-# Travel-Diary-app
-The Travel Diary App is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) designed to help travelers document, organize, and share their travel experiences. Whether you're a globetrotter or an occasional explorer, this app provides a seamless platform to capture memories, plan trips, and connect with a community of like-minded adventurers. With a user-friendly interface and robust backend, the Travel Diary App ensures your travel stories are preserved and accessible anytime, anywhere.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
